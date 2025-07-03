@@ -1,0 +1,25 @@
+{
+  "patient_summary": {
+    "name": "Mohamed Rashed",
+    "age": 21,
+    "gender": "Male",
+    "current_symptoms": ["Persistent cough", "Shortness of breath", "Chest tightness", "Mild fever"],
+    "medical_history_summary": [
+      "Hypertension and Type 2 Diabetes diagnosed",
+      "Former smoker who quit 5 years ago"
+    ]
+  },
+  "clinical_assessment": {
+    "symptom_analysis": "Patient presents with respiratory symptoms including persistent cough, shortness of breath, and chest tightness, accompanied by mild fever. These symptoms could indicate respiratory infection, asthma exacerbation, or COVID-19, particularly concerning given diabetes history.",
+    "potential_diagnoses": ["Respiratory infection (viral/bacterial)", "Asthma exacerbation", "COVID-19"],
+    "risk_factors": ["Type 2 Diabetes", "Hypertension", "Former smoker"],
+    "severity_assessment": "moderate",
+    "urgency_level": "urgent"
+  },
+  "recommendations": {
+    "immediate_actions": ["Oxygen saturation check", "COVID-19 test"],
+    "follow_up_care": ["Monitor blood glucose levels closely", "Respiratory follow-up in 3 days"],
+    "additional_tests": ["Chest X-ray", "CBC with differential", "Influenza test"],
+    "precautions": ["Monitor for signs of respiratory distress", "Ensure good hydration"]
+  }
+}

@@ -1,0 +1,6 @@
+echo venv/ > .gitignore
+venv/
+__pycache__/
+*.pyc
+medical_assistant.db
+.idea/

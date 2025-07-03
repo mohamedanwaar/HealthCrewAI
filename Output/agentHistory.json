@@ -1,0 +1,16 @@
+{
+  "patient_info": {
+    "name": "Mohamed Rashed",
+    "age": 21,
+    "gender": "Male",
+    "current_symptoms": ["Persistent cough", "Shortness of breath", "Chest tightness", "Mild fever"]
+  },
+  "medical_history": [
+    {
+      "date": "2025-07-03",
+      "description": "Hypertension, Type 2 Diabetes, Former smoker (quit 5 years ago)"
+    }
+  ],
+  "chronic_conditions": ["Hypertension", "Type 2 Diabetes"],
+  "allergies": []
+}
