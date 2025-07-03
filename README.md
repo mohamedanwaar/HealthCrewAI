@@ -26,8 +26,6 @@ An intelligent medical analysis system powered by CrewAI that automates patient 
 ### Medical History Registrationhttps:
 ![Medical History](https://github.com/mohamedanwaar/HealthCrewAI/blob/main/OutputExample/Image2.png)
 
-### AI Analysis Results
-![Analysis Results](https://github.com/mohamedanwaar/HealthCrewAI/blob/main/OutputExample/Image3.png)
 
 ### Medical Report Display
 ![Medical Report](https://github.com/mohamedanwaar/HealthCrewAI/blob/main/OutputExample/Image5.png)
