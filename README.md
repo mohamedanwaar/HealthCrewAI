@@ -2,7 +2,7 @@
 
 An intelligent medical analysis system powered by CrewAI that automates patient data processing, medical history retrieval, and clinical assessment. The system generates comprehensive medical reports to assist healthcare providers in making informed clinical decisions.
 
-## 📌 System Architecture
+## 📸 System Architecture
 ![architecture](https://github.com/mohamedanwaar/HealthCrewAI/blob/main/OutputExample/Architecture.png)
 
 ## 📌 Features
@@ -28,7 +28,7 @@ An intelligent medical analysis system powered by CrewAI that automates patient 
 
 
 ### Medical Report Display
-![Medical Report](https://github.com/mohamedanwaar/HealthCrewAI/blob/main/OutputExample/Image5.png)
+![Medical Report](https://github.com/mohamedanwaar/HealthCrewAI/blob/main/OutputExample/Report.png)
 
 ## 📂 Project Structure
 
