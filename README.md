@@ -18,16 +18,16 @@ An intelligent medical analysis system powered by CrewAI that automates patient 
 ## 📸 GUI Screenshots
 
 ### Patient Information Form
-![Patient Form]([[https://via.placeholder.com/800x400/3498db/ffffff?text=Patient+Information+Form](https://github.com/mohamedanwaar/HealthCrewAI/blob/main/OutputExample/Image1.png)](https://github.com/mohamedanwaar/HealthCrewAI/blob/main/OutputExample/Image1.png))
+![Patient Form](https://github.com/mohamedanwaar/HealthCrewAI/blob/main/OutputExample/Image1.png)
 
-### Medical History Registration
-![Medical History](https://via.placeholder.com/800x400/e74c3c/ffffff?text=Medical+History+Registration)
+### Medical History Registrationhttps:
+![Medical History](https://github.com/mohamedanwaar/HealthCrewAI/blob/main/OutputExample/Image2.png)
 
 ### AI Analysis Results
-![Analysis Results](https://via.placeholder.com/800x400/27ae60/ffffff?text=AI+Analysis+Results)
+![Analysis Results](https://github.com/mohamedanwaar/HealthCrewAI/blob/main/OutputExample/Image3.png)
 
 ### Medical Report Display
-![Medical Report](https://via.placeholder.com/800x400/f39c12/ffffff?text=Medical+Report+Display)
+![Medical Report](https://github.com/mohamedanwaar/HealthCrewAI/blob/main/OutputExample/Image5.png)
 
 ## 📂 Project Structure
 
